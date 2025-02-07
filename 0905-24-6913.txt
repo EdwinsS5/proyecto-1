@@ -1,0 +1,8 @@
+1. ¿Qué aprendiste sobre el uso de trabajo con Git y GitHub?
+   Aprendí que Git es una herramienta muy útil para gestionar versiones de proyectos y que GitHub facilita la colaboración en equipo al permitir almacenar y compartir los proyectos de forma remota.
+
+2. ¿Cómo fue la experiencia de trabajar en parejas? ¿Encontraste algún conflicto? ¿Cómo lo resolviste?
+   Trabajar en pareja fue una experiencia muy positiva. Hubo un conflicto cuando ambos intentamos editar el mismo archivo al mismo tiempo, pero lo resolvimos usando ramas y fusionando nuestros cambios sin perder nada.
+
+3. ¿Qué ventajas crees que tiene usar Git en proyectos de programación?
+   Usar Git en proyectos de programación permite llevar un control de versiones, facilita la colaboración en equipo, y ayuda a manejar conflictos de código de manera eficiente.
